@@ -56,3 +56,7 @@ Data Analysis Using Power BI
 
 
 ![Screenshot 2023-11-06 133646](https://github.com/patil1998/Sales-Data-Analysis/assets/46234517/0eac1892-1009-4af1-bb82-2f8f5acd85f3)
+
+![Screenshot 2023-11-13 191120](https://github.com/patil1998/Sales-Data-Analysis/assets/46234517/8844c6fb-9036-481f-888e-1ee3a7f94548)
+
+![Screenshot 2023-11-13 191143](https://github.com/patil1998/Sales-Data-Analysis/assets/46234517/aa68463f-ce84-4bb5-b199-5e8f67b2a90e)
